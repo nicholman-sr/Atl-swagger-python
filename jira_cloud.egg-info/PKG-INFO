@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: jira-cloud
+Version: 1.0.0
+Summary: The Jira Cloud platform REST API
+Home-page: 
+Author-email: ecosystem@atlassian.com
+Keywords: Swagger,The Jira Cloud platform REST API
+Requires-Dist: urllib3>=1.15
+Requires-Dist: six>=1.10
+Requires-Dist: certifi
+Requires-Dist: python-dateutil
+Dynamic: author-email
+Dynamic: description
+Dynamic: keywords
+Dynamic: requires-dist
+Dynamic: summary
+
+    Jira Cloud platform REST API documentation  # noqa: E501
+    

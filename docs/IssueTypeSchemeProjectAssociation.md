@@ -1,0 +1,10 @@
+# IssueTypeSchemeProjectAssociation
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**issue_type_scheme_id** | **str** | The ID of the issue type scheme. | 
+**project_id** | **str** | The ID of the project. | 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+

@@ -1,0 +1,10 @@
+# CompoundClause
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**clauses** | [**list[JqlQueryClause]**](JqlQueryClause.md) | The list of nested clauses. | 
+**operator** | **str** | The operator between the clauses. | 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
